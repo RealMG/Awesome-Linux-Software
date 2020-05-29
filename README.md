@@ -86,6 +86,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
 - [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats.
 - [![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) [Cmus](https://cmus.github.io/#download) - A small, fast and powerful console music player for Unix-like operating systems.
+- [![Open-Source Software][OSS Icon]](https://github.com/DeaDBeeF-Player/deadbeef) [DeaDBeeF](http://deadbeef.sf.net/) - DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems.
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing.
 - [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
 - [![Open-Source Software][OSS Icon]](http://gnormalize.sourceforge.net/) [Gnormalize](http://gnormalize.sourceforge.net/) - An audio converter and CD ripper with ReplayGain normalization algorithms, a metadata (tag) editor and an audio player. It uses gtk2-perl under GNU/Linux.
@@ -172,7 +173,7 @@
 
 ### Data Backup and Recovery
 - [![Open-Source Software][OSS Icon]](https://backintime-dev.readthedocs.io/en/latest/) [Back In Time](https://github.com/bit-team/backintime/) - A simple backup tool for Linux, inspired by "flyback project".
-- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.
+- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [BorgBackup](https://borgbackup.readthedocs.io/en/stable/) - A deduplicating backup program with compression and authenticated encryption.
 - [![Open-Source Software][OSS Icon]](https://github.com/bup/bup) [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/deja-dup) [Deja Dup](https://launchpad.net/deja-dup) - A simple backup tool with built-in encryption.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) [Duplicity](http://duplicity.nongnu.org/) - Duplicity does directory backups by producing encrypted tar-format volumes and uploading them to a remote or local file server.
@@ -196,7 +197,9 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth.
 - [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
 - [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions.
+- [![Open-Source Software][OSS Icon]](https://github.com/material-ocean/material-ocean) [Material Ocean Theme](https://github.com/material-ocean/material-ocean) - A material design theme with oceanic colors(GTK, QT).
 - [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) [Numix Theme](https://github.com/numixproject/numix-gtk-theme) - A flat and colorful GTK-Theme.
+
 
 #### Desktop Widgets and Theme Utilities
 
@@ -289,6 +292,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython) [Ipython](https://ipython.org/) - Powerful Python shell.
 - [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.
 - [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
+- [![Open-Source Software][OSS Icon]](https://github.com/koalaman/shellcheck) [Shellcheck](https://www.shellcheck.net/) - ShellCheck, a static analysis tool for shell scripts.
 - [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - A powerful command line shell.
 
 #### Supporting Tools
@@ -316,6 +320,7 @@
 - [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
 - [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
 - ![Nonfree][Money Icon] [SmartGit](https://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN.
+- [![Open-Source Software][OSS Icon]](https://github.com/CoatiSoftware/Sourcetrail) [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail is a free and open-source cross-platform source explorer that helps you get productive on unfamiliar source code.
 - ![Non Free][Money Icon] [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C/C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter.
@@ -334,6 +339,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader) [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps.
 - [Foxit](https://www.foxitsoftware.com/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader.
 - [![Open-Source Software][OSS Icon]](https://github.com/martahilmar/gnome-books) [Gnome Books](https://github.com/martahilmar/gnome-books) - GNOME Books is application for listing, searching and reading eBooks.
+- [![Open-Source Software][OSS Icon]](https://www.willus.com/k2pdfopt/src) [K2pdfopt](https://www.willus.com/k2pdfopt) - K2pdfopt optimizes PDF/DJVU files for mobile e-readers (e.g. the Kindle) and smartphones.
 - [![Open-Source Software][OSS Icon]](http://repo.or.cz/w/llpp.git) [llpp](https://wiki.archlinux.org/index.php/Llpp) - A lightweight, fast, customizable and featureful PDF, EPUB, XPS and CBZ viewer with vi-like keybindings based on MuPDF.
 - [Lucidor](https://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format.
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
@@ -576,6 +582,7 @@
 
 #### Image Management
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/digikam) [Digikam](https://www.digikam.org/) - DigiKam is an advanced digital photo management application for Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/szTheory/exifcleaner) [ExifCleaner](https://exifcleaner.com) - Remove image metadata with drag and drop. Supports multi-core batch processing.
 - [![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.
 - [![Open-Source Software][OSS Icon]](http://www.kornelix.net/downloads/downloads.html) [Fotoxx](https://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
 - [![Open-Source Software][OSS Icon]](https://github.com/BestImageViewer/geeqie) [geeqie](http://www.geeqie.org/) - image viewer / photo collection browser. Successor of GQview.
@@ -612,7 +619,6 @@
 #### Screenshot
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.
 - [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](https://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website: http://screencloud.net/.
-- [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) [Shots](https://theshots.ru/) - HTML/CSS/JS screenshot application.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~shutter/shutter/devel/files) [Shutter](https://launchpad.net/shutter/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu.
 
 #### Streaming
@@ -668,6 +674,7 @@
 
 #### Accounting
 - [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting.
+- [![Open-Source Software][OSS Icon]](https://github.com/simonmichael/hledger) [hledger](https://hledger.org/) - Easy-to-use command-line/curses/web plaintext accounting tool.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/homebank) [HomeBank](http://homebank.free.fr/en/index.php) - HomeBank is a free software that will assist you to manage your personal accounting.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken.
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/skrooge.git) [Skrooge](https://skrooge.org/) - A personal finances manager, powered by KDE.
@@ -721,6 +728,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
 - [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
 - [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application.
+- [![Open-Source Software][OSS Icon]](https://git.launchpad.net/synapse-project) [Synapse](https://launchpad.net/synapse-project) - Synapse is a semantic launcher written in Vala that you can use to start applications as well as find and access relevant documents and files by making use of the Zeitgeist engine.
 
 #### Miscellaneous
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/anoise) [Ambient Noise](https://anoise.tuxfamily.org/) - An ambient noise generator for Linux.
@@ -739,6 +747,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
 - ![Nonfree][Money Icon] [Inkdrop](https://inkdrop.app/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.
 - [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](https://joplin.cozic.net) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [![Open-Source Software][OSS Icon]](https://github.com/dvorka/mindforger) [Mindforger](https://www.mindforger.com/) - Thinking notebook and Markdown editor.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 - [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](https://www.get-notes.com/) - A clean simple note taking app for Linux.
@@ -764,6 +773,7 @@
 - ![Nonfree][Money Icon] [Pomodone App](https://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.
 - [![Open-Source Software][OSS Icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
 - [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) [Super Productivity](https://super-productivity.com/) - The simple free flexible ToDo List / Time Tracker / personal Jira and Github Task Manager.
+- [Taskade](https://www.taskade.com/downloads) - Real-time organization and collaboration tool for getting things done. Taskade is a unified workspace for team tasks, notes, with integrated video chat available cross-platform and free to use.
 - [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/taskbook) [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [![Open-Source Software][OSS Icon]](https://github.com/GothenburgBitFactory/taskwarrior) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/todotxt/todo.txt-android) [Todo.txt](http://todotxt.com/) - todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
@@ -815,6 +825,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/keysniffer) [keysniffer](https://github.com/jarun/keysniffer) - Linux kernel mode debugfs keylogger.
 - [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis) [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [![Open-Source Software][OSS Icon]](https://www.openbsd.org/anoncvs.html) [OpenSSH](https://www.openssh.com/) - OpenSSH Secure Shell Server and Client
+- [![Open-Source Software][OSS Icon]](https://github.com/zaproxy/zaproxy/) [OWASP ZAP](https://www.zaproxy.org) - OWASP Zed Attack Proxy (ZAP) web security testing tool.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - A Gnome frontend for GnuPG.
 - [![Open-Source Software][OSS Icon]](https://github.com/mhogomchungu/sirikali) [Sirikali](https://mhogomchungu.github.io/sirikali/) - A Qt/C++ GUI front end to cryfs,gocryptfs,securefs,ecryptfs and encfs.
 - [![Open-Source Software][OSS Icon]](https://www.tcpdump.org/#source) [Tcpdump](https://www.tcpdump.org/) - TCP Debugging/Capture Tool.
@@ -866,6 +877,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.
 - [![Open-Source Software][OSS Icon]](http://dist.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~dabisu/sakura/sakura/files) [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries.
+- [![Open-Source Software][OSS Icon]](https://git.suckless.org/st) [st](https://st.suckless.org) - st is a simple terminal implementation for X.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~gnome-terminator/terminator/gtk3/files) [Terminator](https://launchpad.net/terminator) - Feature filled terminal emulator that supports tabs and grids.
 - [![Open-Source Software][OSS Icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - The pretty and lightweight terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system.
 - [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies.
@@ -920,6 +932,7 @@
 - [![Open-Source Software][OSS Icon]](https://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - A program that can convert many units of measurement to other units.
 - [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - A GTK media converter for the GNOME desktop.
 - [![Open-Source Software][OSS Icon]](https://git.suckless.org/dmenu/) [dmenu](https://tools.suckless.org/dmenu/) - dmenu is a dynamic menu for X, originally designed for dwm. It manages large numbers of user-defined menu items efficiently.
+- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux)[Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC.
 - [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke) - Easystroke is a gesture-recognition application for X11.
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
@@ -1003,6 +1016,7 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/muttmua/mutt) [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability.
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch) [Neofetch](https://github.com/dylanaraps/neofetch) - A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows.
 - [![Open-Source Software][OSS Icon]](https://github.com/newsboat/newsboat) [Newsboat](https://newsboat.org/) - Newsboat is a fork of Newsbeuter, an RSS/Atom feed reader for the text console.
+- [![Open-Source Software][OSS Icon]](https://github.com/o2sh/onefetch) [Onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
 - [![Open-Source Software][OSS Icon]](https://github.com/facebook/PathPicker) [PathPicker](https://github.com/facebook/PathPicker) - A command that lets you select files that were output from a previous command in the command line, so you can then run another command or edit them.
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/pywal) [pywal](https://github.com/dylanaraps/pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.
 - [![Open-Source Software][OSS Icon]](https://github.com/orakaro/rainbowstream) [Rainbow Stream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
@@ -1014,9 +1028,11 @@
 - [Top 10 command line tools](https://lifehacker.com/top-10-command-line-tools-399468)
 - [![Open-Source Software][OSS Icon]](https://github.com/soimort/translate-shell) [translate-shell](https://www.soimort.org/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
+- [![Open-Source Software][OSS Icon]](https://github.com/hashicorp/vagrant) [vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and distributing development environments.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 - [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/xsv) [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
+- [![Open-Source Software][OSS Icon]](https://github.com/skywind3000/z.lua) [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
 
 ## Desktop Environments
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](https://github.com/solus-project/budgie-desktop) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
@@ -1069,6 +1085,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.
 - [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - Is a Manual tiling window manager for X11 using Xlib and Glib.
 - [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems.
+- [![Open-Source Software][OSS Icon]](https://github.com/Airblader/i3) [i3-gaps](https://github.com/Airblader/i3) - i3-gaps is i3 with more features.
 - [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python.
 
 ### Dynamic window managers
